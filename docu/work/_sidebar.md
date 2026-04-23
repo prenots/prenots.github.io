@@ -1,3 +1,3 @@
 - [< Back](/)
 - [Home](/work/)
-- [Visual Studio Settings](/work/visual-studio-settings)
+- [Visual Studio Settings](/work/visualstudiosettings)
